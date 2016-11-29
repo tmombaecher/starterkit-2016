@@ -1,2 +1,5 @@
 To make a git repository run
 git init <Folder>
+
+
+Now change something.
