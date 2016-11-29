@@ -3,3 +3,6 @@ git init <Folder>
 
 
 Now change something.
+
+To save it: 
+git push
