@@ -1,0 +1,5 @@
+I learnt about:
+
+- grep
+- find
+- man
